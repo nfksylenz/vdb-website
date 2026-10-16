@@ -10,7 +10,7 @@ window.VDB_CONFIG = {
     retention: "12 mesi dalla fine del rapporto, salvo obblighi di legge"
   },
   firebase: {
-    apiKey: "AIzaSyCPFPPqv8Y4uoPDQXYUIB1oqTPvAxN--r4",
+    apiKey: "AIzaSyCPFPPqv8Y4uoPDQXYUIBloqTPvAxN--r4",
     authDomain: "vdb-trainer-app.firebaseapp.com",
     projectId: "vdb-trainer-app",
     storageBucket: "vdb-trainer-app.firebasestorage.app",
