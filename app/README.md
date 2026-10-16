@@ -1,0 +1,1 @@
+Area Clienti VDB Trainer
