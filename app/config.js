@@ -1,4 +1,3 @@
-/* Configurazione VDB Training: compila i campi qui sotto seguendo GUIDA.md */
 window.VDB_CONFIG = {
   trainerEmail: "vdbcoach@gmail.com",          // la tua email, in minuscolo: è quella con cui entri nel pannello trainer
   whatsapp: "393884758884",                  // numero con prefisso, senza +
@@ -28,3 +27,7 @@ const firebaseConfig = {
   appId: "1:277230424636:web:ecf12ac9d5a25c8f8fe939",
   measurementId: "G-VC0LWZSZ3E"
 };
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);",
